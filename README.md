@@ -3,6 +3,6 @@
  　 　
 ﹡ ֗ 　 ۪　ˌ͙‿　　 𐔌´⠀ ᩙᩙ `๑꒱ ⠀　◜₊ ͡ 　₊ ⊹ 　　◌̊  
 
-!pekos[peko' s !](https://komarev.com/ghpvc/?username=accidentaldeath)
+![peko' s !](https://komarev.com/ghpvc/?username=accidentaldeath)
 
 
