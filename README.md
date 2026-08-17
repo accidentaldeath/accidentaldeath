@@ -1,3 +1,4 @@
+
 <img width="1080" height="665" alt="Image" src="https://github.com/user-attachments/assets/c155fddc-d46b-4198-982c-e362487b46ab" />
  　 　 　 　 　 　 　 　 　 　 　   　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　　 　
 <div id="header" align="center">
@@ -34,3 +35,5 @@ ${{\color{#eff6f8}\normalsize{\texttt{Collie -> @patchworkpaws}}}}$ <br>
 ${{\color{#eff6f8}\normalsize{\texttt{Kyuna -> @valkkiez}}}}$ <br>
 
 </details>
+
+<img width="600" height="332" alt="Untitled181_20260817110307" src="https://github.com/user-attachments/assets/5bf05619-07b7-4fcf-8b38-ab346268ac9f" />
