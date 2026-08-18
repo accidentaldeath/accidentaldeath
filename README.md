@@ -26,8 +26,6 @@ ${{\color{#eff6f8}\normalsize{\texttt{Junie -> @MEGURINELUKA02}}}}$ <br>
 
 ${{\color{#eff6f8}\normalsize{\texttt{Kim -> @radicalparasite}}}}$ <br>
 
-${{\color{#eff6f8}\normalsize{\texttt{Collie -> @patchworkpaws}}}}$ <br>
-
 ${{\color{#eff6f8}\normalsize{\texttt{Kyuna -> @valkkiez}}}}$ <br>
 
 </details>
