@@ -36,4 +36,3 @@ ${{\color{#eff6f8}\normalsize{\texttt{Kyuna -> @valkkiez}}}}$ <br>
 
 </details>
 
-<img width="600" height="332" alt="Untitled181_20260817113154" src="https://github.com/user-attachments/assets/2e5e7ee4-b430-4866-9b2d-fb44e12d1960" />
