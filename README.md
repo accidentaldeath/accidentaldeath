@@ -18,11 +18,7 @@
      ${{\color{#eff6f8}{\texttt{　　oomfs　. }}}}$
   </summary>
 
-${{\color{#eff6f8}\normalsize{\texttt{Kirara -> @pawfieclaws 4A}}}}$ <br>
 
-${{\color{#eff6f8}\normalsize{\texttt{Glam -> @girlslikeguns 4A}}}}$ <br>
-
-${{\color{#eff6f8}\normalsize{\texttt{Rabi -> @F-02-14-23 4A}}}}$ <br>
 
 ${{\color{#eff6f8}\normalsize{\texttt{Mercury -> @Infectious-bites}}}}$ <br>
 
