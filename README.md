@@ -7,7 +7,7 @@
 
 <div align="center">
                                                                                                                                                                                                                                            <p align="center">
-  <a href="https://rentry.co/accidentaldeath"> rentry</a>⠀⠀⠀⠀<a href="https://fullofhate.atabook.org/">新book</a>
+  ⠀⠀⠀⠀<a href="https://fullofhate.atabook.org/">新book</a>
 
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=8bitoperator&pause=1000&color=FF0000&center=true&width=500&lines=my+favorite+number+is+nine.;because+there+are+no+numbers+higher." alt="Typing SVG" /></a>
